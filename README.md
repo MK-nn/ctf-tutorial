@@ -1,1 +1,1 @@
-repository for practice ctf
+For SECCON Beginners CTF 2023
